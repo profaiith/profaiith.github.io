@@ -7,3 +7,7 @@ body {
     display: grid;
     justify-items: center;
 }
+
+#bm {
+    width: 590px;
+} 
