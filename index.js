@@ -5,3 +5,5 @@ lottie.loadAnimation({
     autoplay: true,
     path: 'data.json' // the path to the animation json
   });
+
+  
