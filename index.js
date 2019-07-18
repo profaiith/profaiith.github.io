@@ -3,7 +3,5 @@ lottie.loadAnimation({
     renderer: 'svg',
     loop: false,
     autoplay: true,
-    path: 'data.json' // the path to the animation json
-  });
-
-  
+    path: 'data.json'
+  }); 
